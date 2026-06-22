@@ -1,0 +1,5 @@
+{
+  "critical_battery": 15,
+  "max_wind": 45,
+  "maintenance_interval": 500
+}

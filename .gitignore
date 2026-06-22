@@ -1,0 +1,27 @@
+.env
+.env.*
+!.env.example
+
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Frontend build
+frontend/build/
+frontend/node_modules/
+
+# Build artifacts & archives
+*.zip
+
+# Test cache
+.pytest_cache/
+htmlcov/
+.coverage
